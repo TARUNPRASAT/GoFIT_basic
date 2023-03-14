@@ -1,2 +1,2 @@
 # GoFIT-Basic
-Webpage under development
+A Basic Gym Management Webpage which is under development
